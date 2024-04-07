@@ -1,15 +1,15 @@
 Parts:
 
-Main ( main base for mounting components ) 
+1. Main ( main base for mounting components ) 
 
-Top ( cover ) 
+2. Top ( cover ) 
 
-RP pico 
+3. RP pico 
 
-Lithium battery ( as small as possible, maximum 30x40x5 )
+4. Lithium battery ( as small as possible, maximum 30x40x5 )
 
-0,91" 128x32 OLED displey
+5. 0,91" 128x32 OLED displey
 
-SD card 
+6. SD card 
 
-Button for control 
+7. Button for control 
