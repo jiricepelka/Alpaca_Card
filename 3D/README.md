@@ -13,3 +13,7 @@ Parts:
 6. SD card 
 
 7. Button for control 
+
+8. NFC chip
+
+9. Batery managment
